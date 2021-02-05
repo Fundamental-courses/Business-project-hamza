@@ -18,14 +18,15 @@
     
 ## Technology and tools used:
   1. programming languages:
-    - HTML language.
-    - CSS Language.
-    - Bootstrab language.
+   - HTML language.
+   - CSS Language.
+   - Bootstrab language.
+   
   2. Tools used:
-    - Used environment (IDE) is visual studio code.
-    - GitHub:
-      GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-    ### A step-by-step guide to Git:
+     - Used environment (IDE) is visual studio code.
+     - GitHub:
+     GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+  ### A step-by-step guide to Git:
        1. Create a GitHub account and install the git bash. 
        2. Create a new repository and install in device by:
           git clone namerepo.
